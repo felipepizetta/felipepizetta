@@ -2,28 +2,38 @@
 
 ## Welcome to my GitHub 🧠
 
-<p>I'm passionate about technology and believe it has the potential to transform the world. That's why I'm dedicated to using my knowledge and skills to make a difference.</p>
+<p>I am a highly motivated and experienced Full Stack developer, passionate about creating world-class entertainment experiences. I believe that technology has the potential to transform the world, and I am dedicated to using my knowledge and skills to make a difference.</p>
 
 ## Details about me
 
 * **Age:** 21
 * **Living in:** Descalvado, São Paulo - Brazil
-* **Learning:** Machine Learning and Data Science
-* **Graduation:** Systems Analysis and Development
-* **Pós-graduação:** Analytics, Big Data e Intelligent Information
-* **University:** Universidade Paulista
+* **Graduation:** Analysis and Development of Systems
+* **Postgraduate:** MBA in Analytics, Big Data, and Intelligent Information
 
-**Meet me at:**
+**Connect with me on social media:**
 
 **[LinkedIn](https://www.linkedin.com/in/felipepizetta/)** <br />
 **[Instagram](https://instagram.com/felipe.pizetta)** <br />
 **[Portfolio](https://www.felipepizetta.com.br/pt)** <br />
 
 ---
-## Visit my repositories and get to know my specialties, here are some of them:
 
-[![My Skills](https://skillicons.dev/icons?i=azure,react,ts,javascript,tailwind,python,redhat,ruby,rust)](https://skillicons.dev)
+## Visit my repositories and learn about my specialties, here are some of them:
 
-### Currently, my routine as a student consists of:
+[![My Skills](https://skillicons.dev/icons?i=react,cs,dotnet,azure,docker,javascript,typescript,python,postgresql,mongodb,git,html,css,linux)](https://skillicons.dev)
 
-- Developing personal projects and contributing to the community, honing my skills in artificial intelligence and data science, I then started my career creating end-to-end machine learning solutions with **[Python](https://python.org/)**, exploring machine learning techniques, natural language processing and data analysis. I was invited to do some freelance work, using tools such as: **[OpenCV](https://opencv.org/)** | **[TensorFlow](https://www.tensorflow.org/?hl=pt-br)** | **[Keras](https://keras.io/)** | **[Pandas](https://pandas.pydata.org/)** | **[NumPy](https://numpy.org/)** | **[Matplotlib](https://matplotlib.org/)** | **[Seaborn](https://seaborn.pydata.org/)**...
+### Technical Skills
+
+- **Programming Languages:** C#, JavaScript, TypeScript, Python
+- **Frameworks and Libraries:** ReactJS, ASP.NET Core, .NET 8
+- **Databases:** PostgreSQL, MongoDB, T-SQL
+- **Tools and Technologies:** Git, Docker, Azure, WebAPI
+- **Agile Methodologies:** Experience in Scrum and Kanban
+- **Web Security:** Best practices for secure development
+
+### Currently, my routine as an intern at Jundu consists of:
+
+- Implementing ITIL and COBIT processes, strengthening our IT infrastructure and cybersecurity.
+- As a freelance front-end developer, I have improved my skills in creating interfaces that amplify clients' digital presence, boosting engagement and conversion.
+- My focus is on applying theoretical knowledge to practice, developing innovative solutions that integrate my web development experience with data analysis, delivering results that exceed client expectations and contribute to organizational growth.

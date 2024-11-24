@@ -2,16 +2,14 @@
 
 ## Seja bem vindo(a) ao meu GitHub 🧠
 
-<p>Sou apaixonado por tecnologia e acredito que ela tem o potencial de transformar o mundo. Por isso, me dedico a usar meus conhecimentos e habilidades para fazer a diferença.</p>
+<p>Sou um desenvolvedor Full Stack altamente motivado e experiente, com paixão pela criação de experiências de entretenimento de classe mundial. Acredito que a tecnologia tem o potencial de transformar o mundo e me dedico a usar meus conhecimentos e habilidades para fazer a diferença.</p>
 
 ## Detalhes sobre mim
 
 * **Idade:** 21
 * **Moro em:** Descalvado, São Paulo - Brasil
-* **Aprendendo:** Machine Learning e Data Science
 * **Graduação:** Análise e Desenvolvimento de Sistemas
-* **Pós-graduação:** Analytics, Big Data e Intelligent Information
-* **Universidade:** Universidade Paulista
+* **Pós-graduação:** MBA em Analytics, Big Data e Informação Inteligente
 
 **Me conheça nas redes:**
 
@@ -20,10 +18,22 @@
 **[Portfólio](https://www.felipepizetta.com.br/pt)** <br />
 
 ---
+
 ## Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
 
-[![My Skills](https://skillicons.dev/icons?i=azure,react,ts,javascript,tailwind,python,redhat,ruby,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,cs,dotnet,azure,docker,javascript,typescript,python,postgresql,mongodb,git,html,css,linux)](https://skillicons.dev)
 
-### Atualmente, minha rotina como estudante consiste em:
+### Habilidades Técnicas
 
-- Desenvolver projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em inteligência artificial e ciência de dados, então comecei minha carreira criando soluções de machine learning de ponta a ponta com **[Python](https://python.org/)**, explorando técnicas de aprendizado de máquina, processamento de linguagem natural e análise de dados. Fui convidada para alguns trabalhos freelancers, utilizando ferramentas como: **[OpenCV](https://opencv.org/)** | **[TensorFlow](https://www.tensorflow.org/?hl=pt-br)** | **[Keras](https://keras.io/)** | **[Pandas](https://pandas.pydata.org/)** | **[NumPy](https://numpy.org/)** | **[Matplotlib](https://matplotlib.org/)** | **[Seaborn](https://seaborn.pydata.org/)**...
+- **Linguagens de Programação:** C#, JavaScript, TypeScript, Python
+- **Frameworks e Bibliotecas:** ReactJS, ASP.NET Core, .NET 8
+- **Banco de Dados:** PostgreSQL, MongoDB, T-SQL
+- **Ferramentas e Tecnologias:** Git, Docker, Azure, WebAPI
+- **Metodologias Ágeis:** Experiência em Scrum e Kanban
+- **Segurança da Web:** Melhores práticas para desenvolvimento seguro
+
+### Atualmente, minha rotina como estagiário na Jundu consiste em:
+
+- Implementar processos ITIL e COBIT, fortalecendo nossa infraestrutura de TI e segurança cibernética.
+- Como desenvolvedor freelancer de front-end, aprimorei minhas habilidades na criação de interfaces que amplificam a presença digital dos clientes, impulsionando o engajamento e a conversão.
+- Meu foco é aplicar conhecimento teórico à prática, desenvolvendo soluções inovadoras que integrem minha experiência em desenvolvimento web com análise de dados, entregando resultados que excedam as expectativas dos clientes e contribuam para o crescimento organizacional.
